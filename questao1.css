@@ -1,0 +1,14 @@
+.pai{
+  display: flex;
+}
+.f1{
+  width: 70%;
+  background-color: black;
+  color: white;
+}
+.f2{
+  margin-left: 10px;
+  width: 30%;
+  background-color: #3b99f1;
+  color: white;
+}
